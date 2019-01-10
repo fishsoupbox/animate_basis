@@ -1,0 +1,20 @@
+.warp {
+	justify-content: space-between;
+	display: flex;
+	margin: 0 auto;
+	width: 1200px;
+}
+.close {
+	background-color: #7c68c9;
+	line-height: 50px;
+	text-align: center;
+	font-size: 16px;
+	height: 50px;
+	width: calc(100% / 8 - 8px);
+	color: #fff;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	cursor: pointer;
+}
