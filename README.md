@@ -1,2 +1,6 @@
 # animate_basis
-animate_basis
+动画基础
+
+1.控制元素移动
+2.同时控制多个元素
+3.包括部分动画效果
